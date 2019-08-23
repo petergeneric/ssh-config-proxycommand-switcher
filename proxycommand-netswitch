@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # TODO If "ip" command available, use "ip address show"
 IP_LIST_COMMAND="ifconfig"
